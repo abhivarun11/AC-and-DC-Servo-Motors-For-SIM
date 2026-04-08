@@ -1,0 +1,27 @@
+FlyPT Mover direct download link:
+
+https://drive.google.com/uc?export=download&id=1zoHUu7cYJlAmBH9pE1wAPNpiMOvHDYj7
+
+2. FlyPT Mover Download Link (if the above link fails to work):
+
+https://www.flyptmover.com/downloads
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+3. LFS Game direct download link:
+
+https://www.lfs.net/file_main.php?id=0
+
+4. LFS Game download link (if the above linik fails to work) :
+
+https://www.lfs.net/downloads
+
+Note: For LFS Game it is necessary that one downloads LFS Old Graphics version to keep the game light on the systems graphics.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------\
+
+5. Purpose:
+
+The way we use this is FlyPT Mover calculates the position and speed for motors. It gives the values for the RIG. 
+
+And LFS (Live for Speed) is the game that we will use to test out the working of the RIG via FlyPT Mover.
